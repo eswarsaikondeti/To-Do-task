@@ -1,4 +1,4 @@
-# 📝 To-Do Task Maker(Python GUI)
+# 📝 To-Do Task Maker (Python GUI)
 
 A simple yet powerful *To-Do List application* built using *Python (Tkinter GUI)*.  
 This app helps you manage your daily tasks with an intuitive interface.
